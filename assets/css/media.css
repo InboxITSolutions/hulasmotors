@@ -1,0 +1,318 @@
+@media only screen and (min-device-width: 1200px) {
+	#city-map-mobile{
+		display: none !important;
+	}
+	.mobile{
+		display: none !important;
+	}
+}
+@media only screen and(min-device-width:480px) and (max-device-width: 768px) {
+	.social-icon{
+		margin-left: 12% !important;
+	}
+	.social-icon img{
+		height:60px; 
+	}
+	#footer{
+		text-align: center;
+	}
+	.navbar-nav{
+		margin-left: 20% !important;
+		margin-top: -30px;
+	}
+	.navbar-brand img{
+		height: 160px;
+	}
+	#city-map-mobile{
+		display: none;
+	}
+	.dealer-map iframe{
+		height: 100% !important;
+	}
+	#mySidenav{
+		position: relative !important;
+	}
+	.sidenav{
+		width: 110% !important;
+		padding-right: 0px;
+		position: relative !important;
+	}
+	.mobile{
+		display: none !important;
+	}
+	.city-name{
+		padding: 0px !important;
+	}
+}	
+@media only screen and (max-device-width: 640px) {
+	.social-icon{
+		margin-left: 10% !important;
+	}
+	.social-icon img{
+		height:60px; 
+	}
+	#footer{
+		text-align: center;
+	}
+	.desktop{
+		display: block;
+	}
+	.dealer-map iframe{
+		height: 100% !important;
+	}
+	.mobile{
+		display: none !important;
+	}
+}
+@media only screen and (max-device-width: 480px) {
+	.social-icon{
+		margin-left: 12% !important;
+	}
+	.social-icon img{
+		height:60px; 
+	}
+	.youtube{
+		height: 100%;
+	}
+	#footer{
+		text-align: center;
+	}
+	.gallery-image-container{
+		margin-left: 0px !important;
+		padding-left: 0px !important;
+	}
+	.navpills{
+		margin-left: 4em;
+	}
+	.desktop{
+		display: none;
+	}
+	.mobile{
+		display: block !important;
+	}
+	.dealer-map iframe{
+		height: 300px !important;
+		padding-right: 0px;
+	}
+	.dealer-detail{
+		padding-top: 10% !important;
+	}
+	#banner{
+		height: 550px !important;
+	}
+	#banner .carousel-inner  .item .battery-slider  img{
+		width: 75% !important;
+    height: 90% !important;
+    margin-top: 0px !important;
+    margin-left: 10% !important;
+	}
+	#banner .carousel-inner  .item  img{
+		margin-left: 5% !important;
+	}
+	.slider-pic{
+		height: 300px;
+	}
+	#banner .item{
+		height: 450px !important;
+	}
+	#banner .caption-container{
+		margin-top: 0px !important;
+		
+	}
+	#banner .carousel-caption{
+		left: 4em !important;
+		padding-top: 0px !important;
+	}
+	.go-top i{
+		font-size: 2em !important;
+		padding-top: 0px;
+		margin-top: -5px;
+	}
+	.hidden-specs-title{
+		display: none;
+	}
+	.specs-row p{
+		text-align: left;
+	}
+	.page-header h1{
+		font-size: 34px;
+	}
+	.para-container{
+		margin-left: 0px !important;
+	}
+	.para-container div{
+		margin-bottom: 10px;
+	}
+	.product-desc{
+		line-height: 2 !important;
+	}
+	.map-frame{
+		width: 100%;
+		margin-left: 0px !important;
+		margin-top: 10px;
+	}
+	.submit, .submit:active, .submit:hover, .submitvisited, .submit:focus{
+		margin-top: -50px !important;
+	}
+	#contact .container-fluid{
+		padding: 0px !important;
+	}
+}
+@media only screen and (max-device-width: 320px) {
+	.container-fluid{
+		margin: 0px;
+		padding: 0px;
+	}
+	.social-icon{
+		margin-left: 2% !important;
+	}
+	.social-icon img{
+		height:60px; 
+	}
+	.youtube{
+		height: 100%;
+	}
+	#footer{
+		text-align: center;
+	}
+	footer .last-footer .row{
+		width: 100%;
+	}
+	.slider-pic{
+		height: 220px;
+	}
+	#nav-tab{
+	    box-shadow: 1px 1px 7px 1px #ccc;
+	}
+	.navpills{
+		margin-left: 0% !important;
+	}
+	.navpills li{
+		padding: 5px 7px !important;
+	}
+	.navpills li:nth-child(1){
+		border-left: 1px solid #ccc !important;
+	}
+	#banner{
+		height: 400px !important;
+	}
+	#banner .carousel{
+		height: 400px !important;
+	}
+	#banner .caption-container{
+		text-align: center;
+	}
+	#banner .carousel-caption{
+		left: 0;
+		margin-top: 5% !important;
+	}
+	#banner .carousel-inner  .item  img {
+		height: 90% !important;
+		width: 90% !important;
+		margin-left: 0px !important;
+	}
+	#banner .carousel-inner  .item .battery-slider  img{
+		    width: 80% !important;
+    height: 100% !important;
+    margin-top: 0px !important;
+	}
+
+	.short-desc{
+		display: block;
+	}
+	#big-tabs{
+		margin-top: -10px !important;
+	}
+	.b-tab{
+		margin-top: 20px;
+	}
+	.b-tab-legacy{
+		box-shadow: none !important;
+	}
+	.b-tab-care{
+		/*box-shadow: 0px 7px 15px 0px #ccc !important;*/
+	}
+	.specs-title h1{
+		font-size: 30px !important;
+	}
+	.gallery-image-container{
+		margin-left: 0px;
+	}
+	.second-row{
+	margin: 0px !important;
+    margin-top: 20px;
+    padding: 0px !important;
+	}
+	.first-row{
+		margin: 0px;
+		padding: 0px;
+	}
+	.feedback-form{
+		width: 100%;
+		padding: 0px;
+	}
+	.feedback-form .submit{
+		margin-top: -20px !important;
+	}
+	.map-frame{
+    margin:0px !important;
+    width: 100%;
+    padding-bottom: 14px;
+    background: transparent;
+	}
+	.desktop{
+		display: none;
+	}
+	.mobile{
+		display: block !important;
+	}
+	#city-map-desktop{
+		display: none;
+	}
+	footer .last-footer .row  .col-md-6{
+		padding: 0px !important;
+	}
+	footer .last-footer .row .col-md-6 p{
+		padding-left: 10px !important;
+		margin-left: 20px !important;
+	}
+	.dealer-map iframe{
+		height: 230px !important;
+		padding-right: 0px !important;
+	}
+	.dealer-detail{
+		padding-top: 10% !important;
+	}
+	.detail-container{
+		height: 450px !important;
+	}
+	.para-container{
+		padding: 10px;
+		margin-left: 0px;
+	}
+	.para-container .para-image img{
+		height: 150px !important;
+	}
+	.brochure-title-director{
+		margin-left: 0px !important;
+		padding-left: 0px !important;
+	}
+	.para-container .para{
+		height: 345px !important;
+	}
+	.para-container blockquote{
+		padding: 0 5% !important;
+	}
+	.go-top i{
+		padding: 0px !important;
+		font-size: 40px !important;
+		margin-top: -10px;
+	}
+	.hidden-specs-title{
+		display: none !important;
+		margin: 0px !important;
+	}
+	#banner .item{
+		height: 400px !important;
+	}
+}
