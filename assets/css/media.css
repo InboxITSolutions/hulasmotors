@@ -285,6 +285,7 @@
 	}
 	.detail-container{
 		height: 450px !important;
+		margin-left: 0px;
 	}
 	.para-container{
 		padding: 10px;

@@ -1,7 +1,7 @@
  <?php include 'partials/header.php'; ?>
   <?php include 'partials/navigation.php'; ?>
 <div class="mobile-dealer-detail">
-<a href="dealers.php" class="btn btn-primary" style="width: 100%; border-radius: 0px;">Go Back</a>
+<a href="dealers.php" class="btn btn-primary" style="width: 100%; border-radius: 0px;padding: 10px 12px;font-size: 20px;">Go Back</a>
   <div id="city-map city-map-mobile" class="col-xs-12 detail-container "style="padding: 0px !important;" class="desktop-dealer-detail">
 
         <?php 
